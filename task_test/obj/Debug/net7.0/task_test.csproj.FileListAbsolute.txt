@@ -1,0 +1,15 @@
+D:\C#\Seminar_9\task_test\bin\Debug\net7.0\task_test.exe
+D:\C#\Seminar_9\task_test\bin\Debug\net7.0\task_test.deps.json
+D:\C#\Seminar_9\task_test\bin\Debug\net7.0\task_test.runtimeconfig.json
+D:\C#\Seminar_9\task_test\bin\Debug\net7.0\task_test.dll
+D:\C#\Seminar_9\task_test\bin\Debug\net7.0\task_test.pdb
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.csproj.AssemblyReference.cache
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.AssemblyInfoInputs.cache
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.AssemblyInfo.cs
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.dll
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\refint\task_test.dll
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.pdb
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\task_test.genruntimeconfig.cache
+D:\C#\Seminar_9\task_test\obj\Debug\net7.0\ref\task_test.dll
